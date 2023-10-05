@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaronva06
 - 👀 I’m interested in Product Management 
 - 🌱 I’m currently learning Javascript, NodeJs
-- 💞️ I’m looking to collaborate on End to end Product cycle
+- 💞️ I’m looking to collaborate on End to end Product lifecycle
 - 📫 How to reach me https://www.linkedin.com/in/jaronvincent/
 
 <!---
