@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaronva06
+- 👋 Hi, I’m Jaron Vincent
 - 👀 I’m interested in Product Management 
 - 🌱 I’m currently learning Javascript, NodeJs
 - 💞️ I’m looking to collaborate on End to end Product lifecycle
